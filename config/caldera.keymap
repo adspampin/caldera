@@ -29,7 +29,7 @@
 // |       |       |       |       |       |       |          |       |       |       |       |       |       |
                         bindings = <
    &kp CARET &trans         &trans     &trans        &trans    &trans           &kp CARET    &kp AMPS    &kp ASTERISK   &trans   &trans  &bt BT_CLR
-   &kp AMPS  &kp UNDERSCORE &kp PLUS   &kp LBKT   &kp RBKT  &kp ASTERISK        &trans    &trans    &trans   &kp SQT   &kp DQT  &kp PIPE
+   &trans  &kp UNDERSCORE &kp PLUS   &kp LBKT   &kp RBKT  &kp ASTERISK        &trans    &trans    &trans   &kp SQT   &kp DQT  &kp PIPE
    &trans    &kp HASH       &kp EQUAL    &kp LPAR      &kp RPAR  &kp EXCL       &trans    &kp LBKT  &kp RBKT &kp MINUS &kp EQUAL  &trans
    &trans    &trans         &trans     &trans        &trans    &kp DELETE           &trans    &trans    &kp LT   &kp GT   &trans  &trans
                         >;
